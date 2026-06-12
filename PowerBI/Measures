@@ -1,0 +1,1 @@
+Total US_retailPrice = SUM(lego_sets[US_retailPrice])
